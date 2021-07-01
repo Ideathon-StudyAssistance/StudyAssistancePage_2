@@ -14,3 +14,8 @@
 <br>
 
 ## [예빈]
+
+- [First Loading Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EC%9D%B4%EC%98%88%EB%B9%88%20%ED%8C%8C%ED%8A%B8/firstPage.html)
+- [Login Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EC%9D%B4%EC%98%88%EB%B9%88%20%ED%8C%8C%ED%8A%B8/loginPage.html)
+- [Shared Calendar List Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EC%9D%B4%EC%98%88%EB%B9%88%20%ED%8C%8C%ED%8A%B8/sharedCalPage.html)
+- [Add-Calendar PopUp Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EC%9D%B4%EC%98%88%EB%B9%88%20%ED%8C%8C%ED%8A%B8/scheduleCalendarPopUp.html)
