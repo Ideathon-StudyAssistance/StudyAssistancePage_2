@@ -6,6 +6,10 @@
 <hr>
 
 ## [은서]
+- [Main Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/mainpage.html)
+- [Setting Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/setting.html)
+- [SideBar](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/sidebar.html)
+- [SideMenu](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/sidemenu.html)
 
 <br>
 
