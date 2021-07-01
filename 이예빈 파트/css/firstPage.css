@@ -1,0 +1,45 @@
+*{
+    margin:0;
+}
+
+@keyframes opa{
+    0%{
+        opacity:0;
+        animation-timing-function:ease-out; 
+    }
+    50%{
+        opacity:0.5;
+        animation-timing-function:ease-out; 
+    }
+    100%{
+        opacity:1;
+        animation-timing-function:ease-out; 
+    }
+}
+
+#center{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+#welcomeLogo{
+    animation-name:opa;
+    animation-iteration-count:1;
+    animation-direction:alternate;
+    animation-duration:2s;
+}
+#assist{
+    font-weight:bold;
+    color:aliceblue;
+    background-color: #7FD8DA;
+    font-size:150%;
+}
+#gotoMain{
+    color:#7FD8DA;
+    background-color:white;
+}
+#gotoMain:hover{
+    color:black;
+    background-color:#c5cdcf;
+}
