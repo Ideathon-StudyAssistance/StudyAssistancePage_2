@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>공유 캘린더 · 공비서</title>
+        <link rel="stylesheet" href="css/font.css">
+        <link rel="stylesheet" href="css/base.css">
+        <link rel="stylesheet" href="css/calendar.css">
+        <link rel="stylesheet" href="css/opensource/css/bootstrap.min.css">
+        <script type="text/javascript" src="css/opensource/js/jquery-3.6.0.min.js"></script>
+        <script type="text/javascript" src="css/opensource/js/bootstrap.min.js"></script>
+        <style type="text/css">
+        </style>
+    </head>
+
+    <body>
+        <div id="leftSpace">
+            <img src="img/mainLogo.svg" alt="mainLogo" id="mainLogo" onclick="location.href='Main.html'">
+        </div>
+
+        <div id="mainSpace">
+            <div id="mainTopSpace">
+                <div id="goBackSpace">
+                    <img src="img/footerLogo.svg" id="goBackToList" onclick="location.href='ShareCalendarList'">
+                </div>
+                <div id="calNameSpace">
+                    <span id="calendarName">> 멋사 공식아이디어톤 순천향4팀</span>
+                </div>
+                <div id="charSpace">
+                    <div class="charSpace" id="charLeftSpace">
+                    </div>
+                    <div id="charMainSpace">
+                        <img src="img/mainCalChar.svg" alt="mainCalChar" id="mainCalChar">
+                    </div>
+                    <div id="charRightSpace">
+                        <img src="img/shareChar.svg" alt="shareChar" id="rightChar">
+                    </div>
+                </div>
+                <div id="addShareSpace">
+                    <img src="img/insertNewShare.svg" alt="insertNewShare" id="insertNewShare">
+                </div>
+            </div>
+
+            <div id="mainCenterSpace">
+                <div class="calendar-container">
+                    <div class="calendar-header">
+                        <h1>
+                            November
+                            <button id="datepicker">▾</button>
+                            <script>
+                                $("#datepicker").datepicker();
+                            </script>
+                        </h1>
+                        <p>2018</p>
+                    </div>
+                    <div class="calendar">
+                        <span class="day-name">Mon</span>
+                        <span class="day-name">Tue</span>
+                        <span class="day-name">Wed</span>
+                        <span class="day-name">Thu</span>
+                        <span class="day-name">Fri</span>
+                        <span class="day-name">Sat</span>
+                        <span class="day-name">Sun</span>
+                        <div class="day day--disabled">30</div>
+                        <div class="day day--disabled">31</div>
+                        <div class="day">1</div>
+                        <div class="day">2</div>
+                        <div class="day">3</div>
+                        <div class="day">4</div>
+                        <div class="day">5</div>
+                        <div class="day">6</div>
+                        <div class="day">7</div>
+                        <div class="day">8</div>
+                        <div class="day">9</div>
+                        <div class="day">10</div>
+                        <div class="day">11</div>
+                        <div class="day">12</div>
+                        <div class="day">13</div>
+                        <div class="day">14</div>
+                        <div class="day">15</div>
+                        <div class="day">16</div>
+                        <div class="day">17</div>
+                        <div class="day">18</div>
+                        <div class="day">19</div>
+                        <div class="day">20</div>
+                        <div class="day">21</div>
+                        <div class="day">22</div>
+                        <div class="day">23</div>
+                        <div class="day">24</div>
+                        <div class="day">25</div>
+                        <div class="day">26</div>
+                        <div class="day">27</div>
+                        <div class="day">28</div>
+                        <div class="day">29</div>
+                        <div class="day">30</div>
+                        <div class="day">31</div>
+                        <div class="day day--disabled">1</div>
+                        <div class="day day--disabled">2</div>
+                        <section class="task task--warning">Projects</section>
+                        <section class="task task--danger">Design Sprint</section>
+                        <section class="task task--primary">Product Checkup 1<div class="task__detail">
+                                <h2>Product Checkup 1</h2>
+                                <p>15-17th November</p>
+                            </div>
+                        </section>
+                        <section class="task task--info">Product Checkup 2</section>
+                    </div>
+                </div>
+        
+            </div>
+            <div id="mainBottomSpace">
+                
+            </div>
+            <footer>
+                <img src="img/footerLogo.svg" alt="공비서" id="footerLogo">
+                <span id="footerSpan"> ⓒ 2021. 일개미 All rights reserved. </span>
+            </footer>
+        </div>
+
+        <div id="rightSpace">
+
+        </div>
+    </body>
+</html>

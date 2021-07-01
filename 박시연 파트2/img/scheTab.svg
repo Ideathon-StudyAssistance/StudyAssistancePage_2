@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="53" viewBox="0 0 77 53">
+  <defs>
+    <filter id="사각형_106" x="0" y="0" width="77" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_154" data-name="그룹 154" transform="translate(-1438.5 -146.5)">
+    <g id="그룹_82" data-name="그룹 82" transform="translate(1607.844 -1569.395) rotate(90)">
+      <g transform="matrix(0, -1, 1, 0, 1715.9, 169.34)" filter="url(#사각형_106)">
+        <rect id="사각형_106-2" data-name="사각형 106" width="44" height="68" transform="translate(69.5 4.5) rotate(90)" fill="rgba(127,216,219,0.75)"/>
+      </g>
+      <rect id="사각형_109" data-name="사각형 109" width="15" height="68" transform="translate(1720.395 99.844)" fill="#ede682"/>
+    </g>
+    <text id="스케줄" transform="translate(1474 185)" fill="#fff" font-size="16" font-family="NanumBarunGothicBold, NanumBarunGothic"><tspan x="-21.408" y="0">스케줄</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,165 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    cursor: pointer;
+}
+
+#leftSpace {
+    width: 25%;
+    height: 100%;
+}
+
+#mainLogo {
+    width: 40%;
+    
+    margin: 20px;
+}
+
+#mainSpace {
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    align-items: space-between;
+    flex-direction: column;
+
+    background-image: url("img/mainBackground.svg");
+}
+
+#mainTopSpace {
+    width: 100%;
+    height: 27%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#calNameSpace {
+    width: 35%;
+    height: 100%;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+#calendarName {
+    margin: 5px 20px;
+
+    font-family: GyeonggiBatang;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#charSpace {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+#charLeftSpace {
+    width: 30%;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+#charMainSpace {
+    width: 40%;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#charRightSpace {
+    width: 30%;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+#rightChar {
+    margin-bottom: 30px;
+}
+
+#tabSpace {
+    width: 35%;
+    height: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#addShareSpace {
+    width: 35%;
+    height: 100%;
+
+    padding-bottom: 5px;
+    padding-right: 15px;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#insertNewShare {
+    width: 10%;
+
+    margin: 5px;
+}
+
+#todoTab {
+    padding: 0px;
+    margin-right: 15px;
+}
+
+#mainCenterSpace {
+    width: 100%;
+    height: 60%;
+}
+
+#mainBottomSpace {
+    width: 100%;
+    height: 13%;
+}
+
+footer {
+    width: 100%;
+    height: 7%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footerLogo {
+    height: 20px;
+
+    margin: 5px;
+}
+
+#footerSpan {
+    font-family: 'GyeonggiBatang', sans-serif;
+    font-size: 12px;
+    margin: 5px;
+ }
+
+#rightSpace {
+    width: 25%;
+    height: 100%;
+
+    display: flex;
+}
