@@ -10,7 +10,7 @@
 <br>
 
 ## [시연]
-- [Schedule Calendar Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2%EB%B0%95%EC%8B%9C%EC%97%B0%20%ED%8C%8C%ED%8A%B82/ScheduleCalendar.html)
+- [Schedule Calendar Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EB%B0%95%EC%8B%9C%EC%97%B0%20%ED%8C%8C%ED%8A%B82/ScheduleCalendar.html)
 - [Share Calendar Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EB%B0%95%EC%8B%9C%EC%97%B0%20%ED%8C%8C%ED%8A%B82/ShareCalendar.html)
 - [Todo Calendar Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EB%B0%95%EC%8B%9C%EC%97%B0%20%ED%8C%8C%ED%8A%B82/TodoCalendar.html)
 
