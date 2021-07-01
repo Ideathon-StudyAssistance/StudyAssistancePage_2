@@ -5,6 +5,12 @@
 
 <hr>
 
+## 맞출 부분
+- 오른쪽 상단 <Logout> 버튼 없애기
+  
+
+<br><hr>
+  
 ## [은서]
 - [ ] 메인로고 바꾸기
 - [ ] copyright 위치 맞추기
@@ -19,7 +25,7 @@
 - [SideBar](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/sidebar.html)
 - [SideMenu](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/sidemenu.html)
 
-<br>
+<br><hr>
 
 ## [시연]
 - [Schedule Calendar Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EB%B0%95%EC%8B%9C%EC%97%B0%20%ED%8C%8C%ED%8A%B82/ScheduleCalendar.html)
@@ -32,7 +38,8 @@
 - [ ] 모든캘린더페이지 - task부분에 커서 오버시키면 설명팝업 뜨게 구현
 - [ ] 모든캘린더페이지 - 캘린더 누르면 예린이 팝업창 뜨게 연결
 - [ ] 공유캘린더페이지 - 캘린더리스트로 돌아가는 버튼 구현---------완료
-<br>
+
+<br><hr>
 
 ## [예빈]
 
