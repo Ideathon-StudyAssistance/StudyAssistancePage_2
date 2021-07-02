@@ -12,16 +12,16 @@
 <br><hr>
   
 ## [은서]
-- [ ] 메인로고 바꾸기
+- [x] 메인로고 바꾸기
 - [ ] copyright 위치 맞추기
 - [Main Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/mainpage.html)
 - [ ] 사이드 메뉴 나오면 배경 흐려지기
 - [ ] 사이드 메뉴의 아이콘 간격
-- [ ] logout위치 메뉴랑 맞추기
+- [ ] logout설정 안으로 넣기
 - [ ] 사이드메뉴에서 아이콘 링크 색 설정(검정)
 - [Setting Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/setting.html)
 - [ ] 아이콘 링크 색 설정
-- [ ] 카카오 연동부분 추가하기
+- [x] 카카오 연동부분 추가하기
 - [SideBar](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/sidebar.html)
 - [SideMenu](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/ideaton/sidemenu.html)
 
