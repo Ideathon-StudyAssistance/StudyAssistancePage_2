@@ -11,6 +11,7 @@
 - [ ] Footer Logo 통일 (로고 이미지 + copyright부분)
 - [ ] 팝업 창들 연결 - 배경 opacity 똑같이 통일
 - [ ] setting menu bar 통일하기
+- [ ] scroll bar 통일하기
 
 <br><hr>
   
