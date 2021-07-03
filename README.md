@@ -44,13 +44,13 @@
 ## [예빈]
 
 #### [First Loading Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EC%9D%B4%EC%98%88%EB%B9%88%20%ED%8C%8C%ED%8A%B8/firstPage.html)
-- [ ] 로딩 페이지로 구현하기 - 메인 페이지/로그인 페이지 이동 전에 잠시동안 뜨게 하기
-- [ ] 왼쪽 상단 Logo 삭제
+- [x] 로딩 페이지로 구현하기 - 메인 페이지/로그인 페이지 이동 전에 잠시동안 뜨게 하기 -> meta태그에서 바로 login page로 이동
+- [x] 왼쪽 상단 Logo 삭제
 
 <br>
 
 #### [Login Page](https://Ideathon-StudyAssistance.github.io/StudyAssistancePage_2/%EC%9D%B4%EC%98%88%EB%B9%88%20%ED%8C%8C%ED%8A%B8/loginPage.html)
-- [ ] 왼쪽 상단 Logo 삭제
+- [x] 왼쪽 상단 Logo 삭제
 
 <br>
 
@@ -58,7 +58,7 @@
 - [ ] 오른쪽 상단 추가 버튼 - 캘린더 추가 팝업 창 (페이지 또 만들어야 함)
 - [ ] 캘린더 얼굴 아이콘 클릭 시 공유 캘린더에 대한 이미지 파일 추가하여 아이콘 변경할 수 있도록 (반응형으로 구현 필요. 미리 샘플로 넣어놓기?)
 - [ ] 캘린더 수정/삭제 버튼 - 캘린더 수정하는 팝업 창 (페이지 구상해서 만들어야 함)
-- [ ] 오른쪽 상단 메뉴/로그아웃 바 - js로 setting page 이동하기
+- [x] 오른쪽 상단 메뉴/로그아웃 바 - js로 setting page 이동하기
 
 
 <br>
